@@ -1,0 +1,50 @@
+---
+title: "Notes and planning"
+author: "Aidan O'Hara"
+date: "2023-05-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+13 weeks and 92 days until august 15th
+
+### Macine Learning
+Review 679 for machine learning exercise, see how TNum might be involved.
+
+### Data exploration with an eye for emergent structure
+Data ingestion, EDA protocols and procedures and TNum
+
+### Project Management for the C-Suite
+You could put together project management about collecting data for presentation and education, a notch above excel for in-office data organization.
+More like Jira, specifically project management
+
+### Data base idea
+You can use chatGPT to come up with almost names for true numbers and database.
+
+### Summer Goals
+How do we get to money by the Fall, or early next year?
+In the meantime, with our spare time, put together something about data collection and our other examples.
+Meetings Tuesday night after 6pm
+
+### Posts from Allen
+
+### tnum website
+
+### Collaborative tnum story project
+
+### Pool a list of prospects, corps, comps, etc
+## people to talk to and their value propositions
+# Restraunts
+my friend the brewer, restraunts probably don't have the capitol though. 
+
+## what are our pitches
+
+### Demonstration of "What tnum looks like?"
+
+### What do we want to accomplish this summer!
+
+### Chris Madrid and Allison Turner
+
