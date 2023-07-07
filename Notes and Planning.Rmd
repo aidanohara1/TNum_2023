@@ -48,3 +48,34 @@ my friend the brewer, restraunts probably don't have the capitol though.
 
 ### Chris Madrid and Allison Turner
 
+### Potential Applications
+
+#### Data exploration with an eye for emergent structure
+Engineers and Scientists for "desktop" data
+- adhoc databases
+- calculation management
+- numbers management is more difficult and important
+- units, provenance, and more...
+- hard to sell
+- why not? despite the head nods. 
+- Angel investor said it was because not enough funding.
+- Before it was problematic that you'd have to use a server for the hosting, not comfy for the engineers.
+Finance and Merger Aquisition people, also, not really, they are different markets for the desktop data stuff
+This one also sort of umbrellas over Machine learning transparency, they are engineers and scientists developing those models.
+
+IT Data integration
+SPAWAR data integration
+- data in motion - data out of the database
+- data at rest - data in the database
+- data in motion, goes to applications, down pipelines, cruising around
+- tnum fits here because with trad db you need a schema that will eventually need to be replaced, loosing the investment in data base mounted applications.
+- pedigree and provenance, wherein tnums have tags and history that describe the number.
+
+Security incidents and quality control
+
+Center for Industrial information
+
+
+
+### Work Plan
+Work with Srdjan to do play things and get a feel for how true numbers works.
