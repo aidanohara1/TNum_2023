@@ -79,3 +79,6 @@ Center for Industrial information
 
 ### Work Plan
 Work with Srdjan to do play things and get a feel for how true numbers works.
+
+
+### TNUM data exploration as means to develop realtional database schemas.
